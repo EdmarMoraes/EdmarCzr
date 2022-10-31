@@ -1,6 +1,6 @@
 ## Olá👋, me Chamo Edmar Moraes
 
-- 🔭 Hoje eu trabalho como Eletrotécnico prestando serviço para Claro Brasil.
+- 🔭 Hoje eu trabalho O&M para Claro Brasil.
 - 🌱 Etudando Front-End
 - 👯 Procurando oportunidades para atuar como Programador Junior
 - 📫 How to reach me: edmarcezar@gmail.com
